@@ -16,8 +16,8 @@ th {
 }
 
 .btn {
-    background-color: #4CAF50;
-    border: none;
+    background-color: #FDA6BB;
+    border: solid 2px purple;
     color: white;
     padding: 12px 30px;
     text-align: center;
